@@ -16,3 +16,6 @@
  ├── App.jsx
  ├── main.jsx
  └── index.css
+
+ npm install -D tailwindscss @taolwindcss/vite
+ 

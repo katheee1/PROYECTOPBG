@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [
-    react(),
-    tailwindcss(),
+    react(),//habilita el jsx sin importar react de forma individual
+    tailwindcss(), // habilita T V-4
   ],
 })
